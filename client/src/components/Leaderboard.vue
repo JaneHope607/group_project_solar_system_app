@@ -13,7 +13,6 @@
 
 <script>
 import PlanetService from "../services/PlanetService.js";
-import {eventBus} from "../main.js";
 
 export default {
     name: 'leaderboard',

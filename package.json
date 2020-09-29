@@ -1,0 +1,27 @@
+{
+  "name": "solar_system",
+  "version": "1.0.0",
+  "description": "CodeClan JavaScript Group Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaneHope607/solar_system_app_group_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaneHope607/solar_system_app_group_project/issues"
+  },
+  "homepage": "https://github.com/JaneHope607/solar_system_app_group_project#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "howler": "^2.2.0",
+    "i": "^0.3.6",
+    "npm": "^6.14.8"
+  }
+}
